@@ -7,6 +7,10 @@
 |Савин Александр|Подготовка данных|М8О-114Б-23|
 |Сприридонов Кирилл|Сбор решения задачи|М8О-107Б-23|
 
+*Ноутбук проекта:* [notebook](https://github.com/marianelia/rice_classification/blob/main/cp.ipynb)
+
+*Презентация проекта:* [презентация](https://github.com/marianelia/rice_classification/blob/main/report.pdf)
+
 #### Описание датасета
 Это набор данных, созданный для классификации риса. 
 
